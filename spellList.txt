@@ -1,0 +1,112 @@
+Aid
+Antimagic Field
+Arcane Eye
+Arcane Lock
+Astral Projection
+Augury
+Beacon of Hope
+Blade Barrier
+Bless
+Blur
+Burning Hands
+Chain Lightning
+Charm Person
+Command
+Commune
+Comprehend Languages
+Cone of Cold
+Counterspell
+Cure Wounds
+Darkness
+Death Ward
+Delayed Blast Fireball
+Detect Magic
+Dimension Door
+Disguise Self
+Disintegrate
+Dispel Magic
+Divination
+Dominate Monster
+Dominate Person
+Dream
+Earthquake
+Etherealness
+Find the Path
+Faerie Fire
+Finger of Death
+Fireball
+Fire Storm
+Flame Strike
+Flaming Sphere
+Fly
+Foresight
+Freedom of Movement
+Gate
+Globe of Invulnerability
+Greater Invisibility
+Greater Restoration
+Guardian of Faith
+Guiding Bolt
+Harm
+Haste
+Heal
+Healing Word
+Heroes’ Feast
+Hold Person
+Holy Aura
+Ice Storm
+Identify
+Imprisonment
+Inflict Wounds
+Invisibility
+Knock
+Lesser Restoration
+Levitate
+Lightning Bolt
+Locate Creature
+Mage Armor
+Magic Missile
+Magic Weapon
+Major Image
+Mass Cure Wounds
+Mass Heal
+Mass Healing Word
+Mass Suggestion
+Maze
+Meteor Swarm
+Misty Step
+Mordenkainen’s Sword
+Otto’s Irresistible Dance
+Passwall
+Power Word Kill
+Power Word Stun
+Prayer of Healing
+Protection from Energy
+Raise Dead
+Regenerate
+Remove Curse
+Resurrection
+Revivify
+Sanctuary
+Shatter
+Shield
+Shield of Faith
+Silence
+Silent Image
+Sleep
+each slot level above 1st.
+Spider Climb
+Spirit Guardians
+Spiritual Weapon
+Stoneskin
+Suggestion
+Sunburst
+Teleport
+Thunderwave
+Time Stop
+True Resurrection
+True Seeing
+Wall of Fire
+Wall of Stone
+Warding Bond
+Web
